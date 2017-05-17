@@ -1,0 +1,125 @@
+.thumbnail span {
+  display: block;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.caption h3, h4 {
+  text-align: center;
+}
+
+#team1 .col-s-12 .col-md-6{
+  background-color: blue;
+
+}
+
+#team2 .col-s-12 .col-md-6{
+  background-color: red;
+}
+
+.carousel-inner img {
+  width:100%;
+  height:25%;
+}
+
+
+
+.navbar-nav li a {
+  padding:0 15px;
+    line-height:60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Impact, fantasy;
+    font-size: 120%;
+
+}
+
+.navbar-nav li a:hover {
+  padding:0 15px;
+    line-height:60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Impact, fantasy;
+    font-size: 130%;
+
+}
+
+/*.nav.navbar-nav.navbar-right li a {
+  color: #3C70D9;
+}*/
+.links {
+  color: #3C70D9;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  line-height: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: Impact, fantasy;
+  font-size: 140%;
+}
+
+.navbar-header a {
+  color: #3C70D9;
+}
+
+.navbar {
+  background-color: #FEFEFE;
+  height: 60px;
+  border-bottom: 7px solid #F8FE42;
+}
+
+.dropdown a{
+  color: #3C70D9;
+  background-color: #20201E;
+
+}
+
+.dropdown a:hover{
+  color: #3C70D9;
+  background-color: #20201E;
+  font-size: 120%;
+  padding: inherit;
+  background-color: #20201E;
+
+}
+
+.describe1 {
+  background-color: blue;
+}
+
+.describe2 {
+  background-color: red;
+}
+
+.carousel-inner img {
+  min-height: 300px;
+}
+
+.row h3, p {
+
+  line-height: 200%
+}
+
+.row p {
+  border-top: 100px;
+  border-bottom: 100px;
+  height: 350px;
+}
+
+.row h3 {
+  background-color: blue;
+  border-top: 100px;
+  border-bottom: 100px;
+    height: 350px;
+}
+
+
+.jumbotron h3, p {
+  color: #E7E8ED;
+}
+
+.steps {
+  background-color: #1246AF;
+}
